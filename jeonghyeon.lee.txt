@@ -1,0 +1,15 @@
+- 디스트로이어 걷는 소리
+- 타격 소리(숨는 사람 죽을 떄 나느 소리) = 이마젠 발걸음, 귀여운 소리!
+
+
+UI 화면 아트 리소스
+- 
+
+-점수 처리
+
+git clone 사이트 
+git status
+git add .
+git commit -m"test 파일 추가"
+git push
+ddf
