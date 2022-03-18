@@ -12,3 +12,4 @@ git status
 git add .
 git commit -m"test 파일 추가"
 git push
+ddf
